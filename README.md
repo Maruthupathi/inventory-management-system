@@ -22,7 +22,7 @@ A console-based inventory management application built with Core Java, JDBC and 
 
 ## Setup
 1. Install JDK and MySQL.
-2. Run database/schema.sql to create the database, tables and sample data.
+2. Run src/Database/schema.sql to create the database, tables and sample data.
 3. Add the MySQL Connector/J jar to the project.
 4. Update the MySQL username and password in src/util/DBConnection.java.
 5. Run src/main/MainApp.java.
